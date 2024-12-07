@@ -1,0 +1,175 @@
+{
+    "Period": "00-2000",
+    "Month": "00",
+    "Year" : "2000",
+    "Description": "Template",
+    "Items": [
+        {
+            "Name": "Surajit Salary",
+            "Group": "Income",
+            "Total": "185929",
+            "Details": [
+                {
+                    "Time": "",
+                    "Amount": "185929"
+                }
+            ]
+        },
+        {
+            "Name": "Previous Month Balance",
+            "Group": "Income",
+            "Total": "0",
+            "Details": []
+        },
+        {
+            "Name": "Other Income",
+            "Group": "Income",
+            "Total": "0",
+            "Details": []
+        },
+        {
+            "Name": "Hoam Loan",
+            "Group": "Home",
+            "Total": "33104",
+            "Details": []
+        },
+        {
+            "Name": "House Related",
+            "Group": "Home",
+            "Total": "0",
+            "Details": []
+        },
+        {
+            "Name": "Car Loan",
+            "Group": "Car",
+            "Total": "15422",
+            "Details": []
+        },
+        {
+            "Name": "Fuel",
+            "Group": "Car",
+            "Total": "4000",
+            "Details": []
+        },
+        {
+            "Name": "Misc Car Related",
+            "Group": "Car",
+            "Total": "0",
+            "Details": []
+        },
+        {
+            "Name": "Maintainance Charges",
+            "Group": "Regular",
+            "Total": "5009",
+            "Details": []
+        },
+        {
+            "Name": "Maid",
+            "Group": "Regular",
+            "Total": "4500",
+            "Details": []
+        },
+        {
+            "Name": "Electricity",
+            "Group": "Regular",
+            "Total": "2500",
+            "Details": []
+        },
+        {
+            "Name": "Internet + Cable TV",
+            "Group": "Regular",
+            "Total": "0",
+            "Details": []
+        },
+        {
+            "Name": "Swastik School",
+            "Group": "Regular",
+            "Total": "5000",
+            "Details": []
+        },
+        {
+            "Name": "Swastik Tution ",
+            "Group": "Regular",
+            "Total": "4500",
+            "Details": []
+        },
+        {
+            "Name": "Food Outsourcing",
+            "Group": "Regular",
+            "Total": "1680",
+            "Details": []
+        },
+        {
+            "Name": "Mobile Suparna",
+            "Group": "Regular",
+            "Total": "1927",
+            "Details": []
+        },
+        {
+            "Name": "Credit Card (HDFC)",
+            "Group": "Loans & Investments",
+            "Total": "10000",
+            "Details": []
+        },
+        {
+            "Name": "Credit Card (CITI)",
+            "Group": "Loans & Investments",
+            "Total": "0",
+            "Details": []
+        },
+        {
+            "Name": "Personal Loan",
+            "Group": "Loans & Investments",
+            "Total": "11981",
+            "Details": []
+        },
+        {
+            "Name": "MF + Share",
+            "Group": "Loans & Investments",
+            "Total": "10000",
+            "Details": []
+        },
+        {
+            "Name": "LIC Premium",
+            "Group": "Loans & Investments",
+            "Total": "12472",
+            "Details": []
+        },
+        {
+            "Name": "Grocery",
+            "Group": "Volatile",
+            "Total": "6000",
+            "Details": []
+        },
+        {
+            "Name": "Running Grocery",
+            "Group": "Volatile",
+            "Total": "10000",
+            "Details": []
+        },
+        {
+            "Name": "Miscelleonous",
+            "Group": "Volatile",
+            "Total": "5000",
+            "Details": []
+        },
+        {
+            "Name": "Surajit Medicine + Expenses",
+            "Group": "Volatile",
+            "Total": "7000",
+            "Details": []
+        },
+        {
+            "Name": "Senior Living",
+            "Group": "Volatile",
+            "Total": "6000",
+            "Details": []
+        },
+        {
+            "Name": "Potential Savings",
+            "Group": "Volatile",
+            "Total": "20000",
+            "Details": []
+        }
+    ]
+}
